@@ -4,7 +4,7 @@ title: "DeBertaCommonSense"
 type: software
 authors:
   - family-names: "Arink"
-    given-names: "Owen"
+    given-names: "Owen André"
 date-released: 2026-04-08
 version: "1.0.0"
 doi: "10.5281/zenodo.19471738"

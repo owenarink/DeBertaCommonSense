@@ -41,7 +41,7 @@ python eval/evaluate.py
 ```bibtex
 @misc{arink2026debertacommonsense,
   title={DeBertaCommonSense},
-  author={Arink, Owen},
+  author={Arink, Owen André},
   year={2026},
   doi={10.5281/zenodo.19471738},
   url={https://doi.org/10.5281/zenodo.19471738}
