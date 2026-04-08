@@ -4,6 +4,8 @@ Official implementation of **DeBertaCommonSense**, a grouped BBPE commonsense re
 
 Hugging Face: https://huggingface.co/owenarink/attentiontypes-commonsense
 
+Model path: `owenarink/attentiontypes-commonsense`
+
 ## Installation
 
 ```bash
@@ -25,6 +27,12 @@ python predict.py
 ```
 
 The default prediction file is written to `submits/submission_deberta_commonsense.csv`.
+
+## Evaluation
+
+```bash
+python eval/evaluate.py
+```
 
 ## Citation
 

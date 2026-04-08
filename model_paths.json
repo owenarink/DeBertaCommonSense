@@ -1,0 +1,6 @@
+{
+  "attentiontypes_huggingface_model": "owenarink/attentiontypes-commonsense",
+  "attentiontypes_huggingface_url": "https://huggingface.co/owenarink/attentiontypes-commonsense",
+  "default_local_checkpoint": "checkpoints/deberta_commonsense.pt",
+  "default_hparams": "checkpoints/deberta_commonsense_hparams.json"
+}
