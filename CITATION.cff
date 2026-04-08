@@ -7,9 +7,11 @@ authors:
     given-names: "Owen"
 date-released: 2026-04-08
 version: "1.0.0"
+doi: "10.5281/zenodo.19471738"
 license: "MIT"
 repository-code: "https://github.com/owenarink/DeBertaCommonSense"
-url: "https://huggingface.co/owenarink/attentiontypes-commonsense"
+url: "https://doi.org/10.5281/zenodo.19471738"
+repository-artifact: "https://huggingface.co/owenarink/attentiontypes-commonsense"
 abstract: "DeBertaCommonSense is a reproducible grouped BBPE commonsense reasoning implementation with a DeBERTa-inspired disentangled attention model for false-sentence repair."
 keywords:
   - commonsense reasoning

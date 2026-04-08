@@ -4,6 +4,8 @@ Official implementation of **DeBertaCommonSense**, a grouped BBPE commonsense re
 
 Hugging Face: https://huggingface.co/owenarink/attentiontypes-commonsense
 
+DOI: https://doi.org/10.5281/zenodo.19471738
+
 Model path: `owenarink/attentiontypes-commonsense`
 
 ## Installation
@@ -40,6 +42,8 @@ python eval/evaluate.py
 @misc{arink2026debertacommonsense,
   title={DeBertaCommonSense},
   author={Arink, Owen},
-  year={2026}
+  year={2026},
+  doi={10.5281/zenodo.19471738},
+  url={https://doi.org/10.5281/zenodo.19471738}
 }
 ```
