@@ -2,6 +2,8 @@
 
 Official implementation of **DeBertaCommonSense**, a grouped BBPE commonsense reasoning model with DeBERTa-inspired disentangled attention.
 
+Hugging Face: https://huggingface.co/owenarink/attentiontypes-commonsense
+
 ## Installation
 
 ```bash
