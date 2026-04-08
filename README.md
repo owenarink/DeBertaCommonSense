@@ -28,8 +28,6 @@ python train.py
 python predict.py
 ```
 
-The default prediction file is written to `submits/submission_deberta_commonsense.csv`.
-
 ## Evaluation
 
 ```bash
