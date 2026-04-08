@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+tokenizers>=0.15
+torch>=2.2
+tqdm>=4.66
